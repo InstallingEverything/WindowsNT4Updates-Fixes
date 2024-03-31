@@ -1,10 +1,11 @@
-# Microsoft Windows NT 4.0 Updates & Fixes 
+# Microsoft Windows NT 4.0 Updates, Fixes and Drivers 
+
 Bringing NT 4.0 as upto date as possible.
 
 ![Alt text](NT4.png)
-"Installing Everything Compiled Drivers"
 
-Compiled list of updates by us for Microsoft Windows 9NT 4.0.
+
+Compiled list of Updates, Fixes & Drivers by us for Microsoft Windows NT 4.0.
 
 **Getting Started**
 
@@ -19,15 +20,17 @@ ISO will autostart to menu.
 
 **Contents**
 
+**Service Packs**
 
-Tested with 
+Service Pack 1
+Service Pack 2
+Service Pack 3
+Service Pack 4
+Service Pack 5
+Service Pack 6a
 
-- Microsoft Windows 95 OSR 2.0
-- Microsoft Windows 95 OSR 2.1
-- Microsoft Windows 95 OSR 2.5
-- Microsoft Windows 98 4.1.1998
-- Microsoft Windows 98 Second Edition 4.10.2222
-- Microsoft Windows ME 4.90.3000
+
+
 
 USB drivers are for Windows 95 **ONLY!**
 
