@@ -1,7 +1,7 @@
 # Microsoft Windows NT 4.0 Updates & Fixes 
 Bringing NT 4.0 as upto date as possible.
 
-![Alt text](Screenshot.png)
+![Alt text](NT4.png)
 "Installing Everything Compiled Drivers"
 
 Compiled list of updates by us for Microsoft Windows 9NT 4.0.
