@@ -22,12 +22,12 @@ ISO will autostart to menu.
 
 **Service Packs**
 
-.Service Pack 1
-.Service Pack 2
-.Service Pack 3 
-.Service Pack 4 
-.Service Pack 5 
-.Service Pack 6a 
+- Service Pack 1
+- Service Pack 2
+- Service Pack 3 
+- Service Pack 4 
+- Service Pack 5 
+- Service Pack 6a 
 
 
 
