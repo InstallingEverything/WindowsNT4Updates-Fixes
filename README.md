@@ -29,6 +29,15 @@ ISO will autostart to menu.
 - Service Pack 5 
 - Service Pack 6a 
 
+**Internet Explorer**
+
+
+**Microsoft Apps**
+
+Microsoft Windows Installer 1.1
+Microsoft .NET Framework 1.1
+
+
 
 
 
