@@ -22,6 +22,8 @@ ISO will autostart to menu.
 
 **Service Packs**
 
+Root folder on the ISO.
+
 - Service Pack 1
 - Service Pack 2
 - Service Pack 3 
@@ -31,23 +33,58 @@ ISO will autostart to menu.
 
 **Internet Explorer**
 
+Root folder on the ISO.
+
+- Internet Explorer 3.02
+- Internet Explorer 4.01 SP2
+- Internet Explorer 5.01
+- Internet Explorer 5.5
+- Internet Explorer 6 SP1
+
+**Internet Explorer Updates**
+
+For IE6 SP1.
+
+- KB887797 
+- KB889293 
+- KB833989
 
 **Microsoft Apps**
 
-Microsoft Windows Installer 1.1
-Microsoft .NET Framework 1.1
+- Microsoft Windows Installer 1.1
+- Microsoft .NET Framework 1.1
+- Microsoft Windows Media Player 6.4
+- Microsoft Windows Media Player 6.4 Updates (wm320920_64.exe, wmpcdcs8.exe)
+- Microsoft JET 4.0 SP8
 
+**Windows NT4 System Updates**
 
-
-
-
-USB drivers are for Windows 95 **ONLY!**
+- Q304158i 
+- Q312895i 
+- Q314147i 
+- Q318138i 
+- Q318138i 
+- Q318203 
+- Q320206i 
+- Q323172i 
+- Q326830i 
+- Q810833i 
+- Q815021i 
+- Q817606i 
+- Q819696i 
+- Q823492i 
+- Q815062
+- KB840315 
+- KB890175 
+- KB917344 
+- KB870669 
+- KB840315
 
 **Installing**
 
-1. Chipset
-2. Audio
-3. USB (Windows 95 Only)
+1. NT4 Patches on root folder if needed.
+2. Internet Explorer installs on root folder if needed.
+3. Follow the menu for install in order.
 
    
 Many thanks!
