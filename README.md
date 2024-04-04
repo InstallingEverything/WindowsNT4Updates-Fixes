@@ -7,20 +7,21 @@ Bringing NT 4.0 as upto date as possible.
 
 Compiled list of Updates, Fixes & Drivers by us for Microsoft Windows NT 4.0.
 
-**Getting Started**
+# **Getting Started**
 
-Always recommended to snapshot VM first!!!!
+# **Always recommended to snapshot VM first!!!!**
 
-Download the ISO and mount it in the VM once installed.
+Download the ISO and mount in the VM or burn to DVD.
 
 ISO will autostart to menu.
 
 ![Alt text](Screenshot.png)
-"Installing Everything Compiled Drivers"
 
-**Contents**
 
-**Service Packs**
+
+# **Contents**
+
+# **Service Packs**
 
 Root folder on the ISO.
 
@@ -31,7 +32,7 @@ Root folder on the ISO.
 - Service Pack 5 
 - Service Pack 6a 
 
-**Internet Explorer**
+# **Internet Explorer**
 
 Root folder on the ISO.
 
@@ -41,23 +42,18 @@ Root folder on the ISO.
 - Internet Explorer 5.5
 - Internet Explorer 6 SP1
 
-**Internet Explorer Updates**
-
-For IE6 SP1.
-
-- KB887797 
-- KB889293 
-- KB833989
-
-**Microsoft Apps**
+# **Microsoft Apps**
 
 - Microsoft Windows Installer 1.1
 - Microsoft .NET Framework 1.1
 - Microsoft Windows Media Player 6.4
 - Microsoft Windows Media Player 6.4 Updates (wm320920_64.exe, wmpcdcs8.exe)
-- Microsoft JET 4.0 SP8
+- Microsoft JET 4.0 SP8  <br>
 
-**Windows NT4 System Updates**
+
+# **Updates**
+
+# **Windows NT4 System Updates**
 
 - Q304158i 
 - Q312895i 
@@ -80,7 +76,15 @@ For IE6 SP1.
 - KB870669 
 - KB840315
 
-**Installing**
+# **Internet Explorer Updates**
+
+For IE6 SP1.
+
+- KB887797 
+- KB889293 
+- KB833989
+
+# **Installing**
 
 1. NT4 Patches on root folder if needed.
 2. Internet Explorer installs on root folder if needed.
