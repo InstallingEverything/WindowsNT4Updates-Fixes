@@ -47,8 +47,7 @@ Root folder on the ISO.
 - Microsoft Windows Installer 1.1
 - Microsoft .NET Framework 1.1
 - Microsoft Windows Media Player 6.4
-- Microsoft Windows Media Player 6.4 Updates (wm320920_64.exe, wmpcdcs8.exe)
-- Microsoft JET 4.0 SP8  <br>
+- Microsoft JET 4.0 SP8
 
 
 # **Updates**
@@ -83,6 +82,11 @@ For IE6 SP1.
 - KB887797 
 - KB889293 
 - KB833989
+
+# **Microsoft Windows Media Player 6.4 Updates**
+
+- wm320920_64.exe
+- wmpcdcs8.exe
 
 # **Installing**
 
