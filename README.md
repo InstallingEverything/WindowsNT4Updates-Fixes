@@ -21,7 +21,7 @@ ISO will autostart to menu.
 
 # **Contents**
 
-[a link](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Updates.md)
+[Contents](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Updates.md)
 
 # **Drivers**
 
