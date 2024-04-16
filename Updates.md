@@ -9,22 +9,6 @@
 - Service Pack 5 
 - Service Pack 6a 
 
-# **Internet Explorer**
-
-- Internet Explorer 3.02
-- Internet Explorer 4.01 SP2
-- Internet Explorer 5.01
-- Internet Explorer 5.5
-- Internet Explorer 6 SP1
-
-# **Microsoft Apps**
-
-- Microsoft Windows Installer 1.1
-- Microsoft .NET Framework 1.1
-- Microsoft Windows Media Player 6.4
-- Microsoft JET 4.0 SP8
-
-
 # **Updates**
 
 # **Windows NT4 System Updates**
