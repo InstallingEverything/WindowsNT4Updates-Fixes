@@ -2,7 +2,7 @@
 
 Bringing NT 4.0 as upto date as possible.
 
-![Alt text](NT4.png)
+![Alt text](NT4Logo.png)
 
 
 Compiled list of Updates, Fixes & Drivers by us for Microsoft Windows NT 4.0.
