@@ -3,9 +3,9 @@
 # **Microsoft Apps**
 
 - Microsoft Windows Installer 1.1
-- Microsoft .NET Framework 1.1
-- Microsoft Windows Media Player 6.4
-- Microsoft JET 4.0 SP8
+- Microsoft .NET Framework 1.1 (1.1.4322)
+- Microsoft Windows Media Player 6.4 (6.4.05.0809)
+- Microsoft JET 4.0 SP8 (KB829558)
 
 # **Microsoft Internet Explorer**
 
