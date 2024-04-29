@@ -32,6 +32,12 @@ ISO will autostart to menu.
 2. Internet Explorer installs on root folder if needed.
 3. Follow the menu for install in order.
 
+**Stats**
+
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/InstallingEverything/WindowsNT4Updates-Fixes/latest)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/InstallingEverything/WindowsNT4Updates-Fixes/total)
+
+
     
 Many thanks!
 
