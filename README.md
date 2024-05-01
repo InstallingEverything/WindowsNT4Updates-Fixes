@@ -34,8 +34,9 @@ ISO will autostart to menu.
 
 **Stats**
 
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/InstallingEverything/WindowsNT4Updates-Fixes/latest)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/InstallingEverything/WindowsNT4Updates-Fixes/total)
+- ![GitHub commits since latest release](https://img.shields.io/github/commits-since/InstallingEverything/WindowsNT4Updates-Fixes/latest?style=plastic&label=Commits)
+
+- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/InstallingEverything/WindowsNT4Updates-Fixes/total?style=plastic&label=Downloads)
 
 
     
