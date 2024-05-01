@@ -17,4 +17,4 @@
 - Microsoft Internet Explorer 5.01 (5.00.3314.2101)
 - Microsoft Internet Explorer 5.5 (5.50.4807.2300)
 - Microsoft Internet Explorer 5.51 (5.51.4807.2300)
-- Microsoft Internet Explorer 6 SP1
+- Microsoft Internet Explorer 6 SP1 (6.0.2800.1106)
