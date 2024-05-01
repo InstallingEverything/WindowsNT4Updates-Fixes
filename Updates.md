@@ -15,7 +15,7 @@
 
 - Q304158i - The Hyperterminal contains an unmonitored buffer allowing code to be executed. 
 - Q312895i - An unmonitored buffer can allow code execution.  
-- Q314147i - An unmonitored buffer in SNMP services can allow the execution of malicious code and a denial of service to the device. (Only affects the NT4 SP6a).
+- Q314147i - An unmonitored buffer in SNMP services can allow the execution of malicious code and a denial of service to the device. (Only affects NT4 SP6a).
 - Q318138i - Concerns an unmonitored buffer problem in the RRAS function.
 - Q318203 
 - Q320206i - In debugging mode, a program can take more privileges than it has.
