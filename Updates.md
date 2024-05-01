@@ -33,6 +33,7 @@
 - KB917344 
 - KB870669 
 - KB840315
+- Q238934i - A program using a secure (SSL) connection may stop responding when leaving the connection to the secure server.
 
 # **Internet Explorer Updates**
 
