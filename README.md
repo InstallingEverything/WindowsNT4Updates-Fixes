@@ -22,15 +22,16 @@ ISO will autostart to menu.
 # **Contents**
 
 - [Updates](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Updates.md)
+- [Service Packs](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/ServicePacks.md)
 - [Drivers](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Drivers.md)
 - [Apps](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Apps.md)
 
 
 # **Installing**
 
-1. NT4 Patches on root folder if needed.
-2. Internet Explorer installs on root folder if needed.
-3. Follow the menu for install in order.
+1. Follow the menu for install in order.
+2. Internet Explorer installs on root of CD if needed or accessed via Menu.
+3. Service Packs on root of CD if needed or accessed via Menu.
 
 **Stats**
 
