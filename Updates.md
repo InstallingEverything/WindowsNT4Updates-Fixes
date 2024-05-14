@@ -3,6 +3,18 @@
 # **Service Packs**
 
 - Service Pack 1
+--------------
+- Q78303 : Intermittent File Corruption Problem
+- Q142653: STOP Message Occurs Calling GetThreadContext/SetThreadContext
+- Q142654: Winsock Memory Access Violation in Ws2help.dll Or Msafd.dll
+- Q142655: Stop Message Appears After Deleting ProductOption Registry Key
+- Q142656: Internet Explorer 3.0 on RISC Computer Cannot Connect to Host
+- Q142657: Data Corruption on Windows NT 4.0
+- Q142658: Internet Information Server Runs Out of Memory
+- Q142659: Internet Explorer 2.0 Fails To Check the Country Code/Language
+- Q149903: File Manager Performs a Move Instead of a Copy
+- Q156832: STOP Message when IBM Warp Client Connects to Windows NT 4.0
+--------------
 - Service Pack 2
 --------------
 - Q78303 : Intermittent File Corruption Problem
@@ -120,6 +132,191 @@
 - Q159203: HOTFIX: Unattended install prompts for new IP if zero in address
 --------------
 - Service Pack 3 
+--------------
+- Q135707 Programs Run at Priority Level 15 May Cause Computer to Hang
+- Q139506 Connections to Share-Level Server May Fail
+- Q140419 Name Release Notfications Not Sent to WINS on Shut Down
+- Q140967 Changing Password in User Manager Does Not Permit Logon
+- Q141189 BUG: Wrong Error Code on NetBIOS Call When Using NWNBLNK
+- Q141381 Retail SP3 Clients Cannot Connect to SP3 Beta 1 Servers
+- Q142047 Bad Network Packet May Cause Access Violation (AV) on DNS Server
+- Q142609 Corruption Problem When Running DPMI Application
+- Q143470 Run Logon Scripts Synchronously Not Applied to New Users
+- Q143472 FPNW Blue Screens Accessing or Creating Folders with Long Paths
+- Q143473 Unattended Setup Stops and Says Press Any Key to Shut Down
+- Q147012 Activating /W Switch to Prevent Rebooting in WinNT
+- Q149538 System Restarts Every 5 Hours if Workstation to Server Upgrade
+- Q151926 Delayed WinLogon When Drive Mapped to Local Share
+- Q153220 DHCP Manager Error "No More Data Is Available"
+- Q154710 Cannot View Long File Names on Network in 16-Bit Programs
+- Q154939 CreateQueueJobAndFile Fails w/ Queues Other Than Print Queue
+- Q156410 STOP 0x1E or 0x50 Error on Multiprocessor DEC Alpha Computer
+- Q157077 Netstat Slow to List Large Numbers of Connections
+- Q157745 Command Extensions Cause Access Violation in Cmd.exe
+- Q158433 Re-creating Admin Shares Causes Exception Error
+- Q158548 Sysdiff Changes Dates on Files It Applies to WinNT
+- Q159060 Mouse Cursor Freezes or Fails with Microsoft IntelliMouse
+- Q159176 XADM: Store Stops Responding with High CPU Usage
+- Q159330 Map.exe Does Not Set Environment Variables Correctly
+- Q159998 Error Message: Error Access Is Denied
+- Q160386 Incorrect MediaType Parameter on IBM PCMCIA Token Ring Card
+- Q160405 Video Memory Not Correctly Detected on Dell Latitude Laptops
+- Q160990 DHCP Server Offers Duplicate IP Addresses for Windows NT
+- Q161038 Winsock Apps Fail on First Attempt at NetBIOS Name Resolution
+- Q161368 Service Pack 2 May Cause Loss of Connectivity in Remote Access
+- Q161432 WINS Static Entries Overwritten by Duplicate Group Names
+- Q161644 STOP 0x0000000A Sfmsrv.sys When Copying File to Mac Volume
+- Q161714 IPX Doesn't Function Correctly over Token Ring Source Routing
+- Q161830 Message from Unix Using Smbclient w/ Long Username Crashes
+- Q161838 Programs That Lock 0 Bytes at Byte 0 Lock Entire File
+- Q162077 Stop: 0x0000000A when Selecting NDS Map Objects
+- Q162096 SET: Drivers Fail to Load When I/O Address Is Above 0xFFF
+- Q162189 Macintosh Clients May Hang Temporarily with Multiple Mac Volumes
+- Q162396 Problem with DHCP Decline Feature in Service Pack 2
+- Q162404 Service Pack 5 Breaks Microsoft Mail Shared Using FPNW
+- Q162471 Windows NT 4.0 May Not Recognize SCSI Devices Using Nonzero LUNs
+- Q162563 WINS Restore Fails on Windows NT Server 4.0
+- Q162566 FPNW Causes Incomplete Display When Executed from Windows 95
+- Q162567 Telnet to Port 135 Causes 100 Percent CPU Usage
+- Q162616 Extra Form Feed with Passthrough Functions to Text Only Driver
+- Q162657 Choosing Default Domain Name for RAS Client Authentication
+- Q162774 Policy Editor Crashes When Using Large Custom ADM Files
+- Q162775 Access Violation in SPOOLSS when Printing to a Serial Printer
+- Q162778 WINS May Report Database Corruption w/ More Than 100 Owners
+- Q162881 RIP Table Sent While Shutting Down When Silent RIP Set
+- Q162926 STOP: 0x0x0000000A After Call to GlobalAddAtom()
+- Q162927 Telnetting to Port 53 May Crash DNS Service
+- Q163129 RAS Client Fails to Connect to Service Pack 2 Using NetBEUI
+- Q163143 STOP: 0x0000001E with Status C000009A
+- Q163196 New Windows NT PING.EXE Prevents Hanging Other TCP/IP Stacks
+- Q163202 Limit of the Number of Simultaneously Open Root Storage Files
+- Q163203 Remote Access Autodial Manager may fail for second user logon
+- Q163213 WebSTONE Benchmark of IIS May Show Poor Results for MP Systems
+- Q163214 RAS Script with Set IPADDR May Fail with 3Com Defender Add-on
+- Q163261 DEC ALPHA WinNT 4.0 Servers w/ SP2 Fail to Lease DHCP Addresses
+- Q163267 Delay While Establishing SPX II Connection
+- Q163318 Helpfile Word Lists May Be Rebuilt After Daylight Savings Change
+- Q163333 Autosynch Compatible COM Applications May Fail w/ FIFO Enabled
+- Q163383 Failure to Obtain IP Address Via DHCP on Token Ring w/ SP2
+- Q163431 16-Bit Application Stops Responding When Run on WinNT 4.0
+- Q163508 STOP 0xA in Ntfs.sys During Reboot
+- Q163512 Error: The Mapi Spooler has Shut Down Unexpectedly
+- Q163525 Delay When Saving Word 7.0 File to Windows NT 4.0 Server
+- Q163538 NTBackup Does Not Properly Eject Tapes on DLT Tape Devices
+- Q163614 HP LaserJet Series II Prints Extra Small Stripes or Points
+- Q163616 Cannot Unlock Workstation If Password Change Cancelled
+- Q163620 STOP 0x50 in Rdr.sys If Pathname Too Long in SMB
+- Q163672 Windows NT 4.0 Setup Fails on ThinkPad 535
+- Q163687 Winsock Applications May Timeout or Fail with an Error
+- Q163700 IIS Access Violation for Polygon with More Than 100 Vertices
+- Q163714 ATDISK Finds the Same Disk Twice on SunDisk PCMCIA ATA Adapter
+- Q163725 NDIS Driver Fails To Check Functional Address
+- Q163790 RPC Service Stops Responding on UDP Port 135
+- Q163872 Sysdiff Cannot Delete Files
+- Q163873 Czech Keyboard Layout Has Wrong Mapping
+- Q163874 Pressing CTRL+ALT+DEL When Logging On Can Cause Blue Screen
+- Q163875 Group Policies Not Applied If DC Name Is More Than 13 Characters
+- Q163876 CSNW Clients Cannot Delete Print Jobs on NetWare Print Queue
+- Q163880 COPY Command Causes File Cache to Grow
+- Q163881 Windows NT Does not Display Some Fonts
+- Q163883 NetBT (tag=Nbt8) Corrupts Pool with WinNT 4.0 SP2 Installed
+- Q163891 Microsoft Excel 97 Causes a Windows NT Access Violation
+- Q163892 A Service May Not Set Hooks on 32-bit GUI Applications
+- Q163936 CLOCK Hangs and Consumes 90% CPU When Set to Digital Display
+- Q163969 Event 552: DNS Was Unable to Serve a Client Request
+- Q164014 Slow Exchange Client Logons Due to Deadlock in LSASS
+- Q164121 Corel Fonts Unavailable Outside of English Locale
+- Q164133 Logon Allowed When Access Denied to Mandatory User Profile
+- Q164138 Files in Macintosh Volume Disappear from Macintosh Clients
+- Q164159 Verify Reports Errors When Restoring a Tape Backup
+- Q164161 NTBACKUP Fails to Back up Microsoft Exchange Server Data
+- Q164201 Access Violation Installing IIS
+- Q164211 FPNW Doesn't Convert the Long File Names Correctly
+- Q164260 Compressing and Uncompressing Files Cause File Cache to Grow
+- Q164309 Windows NT Client: Primary/Secondary WINS Servers Switch
+- Q164322 Memory Leak in NetQueryDisplayInformation API
+- Q164350 NEC IDE CD-ROM Drive CDR-1400C Cannot Play Audio CDs
+- Q164352 Stop 0x00000050 in Tcpip.sys Caused by Winsock Applications
+- Q164391 WinNT 4.0 SP2 Atapi Claims IRQ for Unused IDE Channel
+- Q164410 CHGPASS and SETPASS Do Not Prompt For Typing Correction
+- Q164432 Accented Greek Characters Are Not Being Created
+- Q164462 Conner 4 mm DAT Tape Devices Fail After About 30 Seconds
+- Q164491 Stop: 0x0000000A in Rdr.sys When Mailslot Message > 512 Bytes
+- Q164507 Any User Can Log on to FTP Server with Disabled Anonymous Logon
+- Q164542 MGET to an IBM Host FTP Server Returns Garbage Characters
+- Q164546 SCSI Driver Description Truncated in Control Panel
+- Q164595 Duplicate Route Not Removed After Second Redirection
+- Q164600 4 mm DAT Driver Reports DEC TZ9L Supports Setmarks
+- Q164606 Deferred Reconnections to Password Shares May Not Work
+- Q164630 RPC over NetBEUI Fails from WinNT 4.0 RAS to WinNT 4.0 RAS
+- Q164631 Scavenging WINS Database Removes Static Entries
+- Q164639 SNA Windows 95 Fails Logon If Password Change Required
+- Q164702 WINDISK crashes during initialization when Compaq ATAPI PD/CD
+- Q164758 Remote Procedure Call (RPC) Service Access Violation
+- Q164806 CHKNTFS Does Not Exclude FAT Partitions from AUTOCHK on Boot
+- Q164812 Computer Name Truncated When Name Resolution Attempted
+- Q164821 DHCP Server Service May Stop Responding
+- Q164826 Direct Draw Programs May Hang NT 4.0 with S3 968 Video Chipset
+- Q164904 Stop 0x0000000A in NETBT.SYS After Applying Service Pack 2
+- Q164928 Not All Objects Are Displayed When Browsing NDS Trees
+- Q164938 Event Logging Frozen While Doing Heavy Logging; Services CPU Peg
+- Q164982 Lack of Secondary Address May Cause DNS Service to Hang
+- Q164987 Hard-coded Socket of 451 Causes LANtegrity Software to Fail
+- Q165004 NTVDM Support for Compaq Financial Keyboard Scan Codes
+- Q165245 DDE Client Experiences Intermittent DDE Disconnects
+- Q165314 Grace Logon Remaining Is Not Decremented When Logging to BDC
+- Q165388 Invalid Directory Returned When Attempting to Access FPNW
+- Q165427 Convlog.exe May Cause Access Violation
+- Q165443 NDS Login Script Fails When Checking "If Member Of"
+- Q165456 STOP 0x0000000A in Ntoskrnl.exe
+- Q165483 RasEnumEntries() API Leaks Memory
+- Q165813 16-bit Applications Cause Access Violation in NTDLL.DLL
+- Q165814 Stop: 0x0000001E When Opening My Computer
+- Q165816 STOP 0x0000000A in HAL.DLL on Multiprocessor Computers
+- Q165818 Truncation of Backup Log In Eastern Europe or Russian NT 4.0
+- Q165946 RasEnumEntries Return Incorrect Number of Phonebook Entries
+- Q165950 Unable to Change Font Cartridge Selection
+- Q165989 GetPeerName() Returns WSAENOTCONN After Select() Returns Success
+- Q166043 DHCPAdmin Incorrectly Writes the BootFileTable in the Registry
+- Q166148 RasSetEntryProperties() Fails to Set Options in Service Pack 2
+- Q166158 Access Violation Occurs in SPOOLSS.EXE
+- Q166159 Connecting to Windows Network resources from multi-homed machine
+- Q166183 FPNW Server Returns Error When User Opens More Than 256 Files
+- Q166186 OS/2 with TCP\IP May Refuse Socket Connections from Windows NT
+- Q166197 NBTSTAT Error when Using >25 Dialout Devices with RAS
+- Q166222 Dlc.sys Sends Frame Reject (FRMR) and Drops Connection
+- Q166224 SNA Server 802.2 Connection Fails to Reactivate
+- Q166226 Backup of Local Registry Does Not Work With NTBACKUP.EXE /b
+- Q166257 Applications Using OpenGl Cause Access Violation in OPENGL.DLL
+- Q166265 Printing To A Postscript Printer May Cause A STOP 0x0000003b
+- Q166266 STOP 0x0000000A Using OpenNT Commands and Utilities
+- Q166267 Office Shortcut Bar Fonts Appear as Non-Cyrillic on Russian NT
+- Q166311 Memory Leak Retrieving OLE Property Values with Service Pack 2
+- Q166334 OpenGL Access Violation on Windows NT Version 4.0
+- Q166421 FPNW Returns Time Stamp with 60 Seconds to Clients
+- Q166423 Access Violation in SERVICES.EXE in EVENTLOG.DLL
+- Q166475 NWLNKSPX Retransmission Problem Over a Slow Link
+- Q166478 Logon Rights Are Not Audited
+- Q166482 DUMPCHK.EXE Incorrectly Reports Some Dump Files as Invalid
+- Q166686 RASDIAL Error w/English Text on Non-English Version of Windows NT 4.0
+- Q166696 NT 4 Err Msg: "The INF OEMNADDI is missing the referenced file"
+- Q166823 Cannot Connect To AT&T Advanced Server VMS or OSF Print Share
+- Q166834 Lost Record Locks from MS-DOS-based Program to NetWare Server
+- Q166842 CSNW & GSNW Won't Display NetWare Servers via a SAP Seed Server
+- Q166846 Cannot Reconnect to TN3270 Server with Close Listen Sockets
+- Q166874 No Crashdump and Compaq Systems with Smart-2/P (PCI) Controller
+- Q166963 Cannot Communicate with Computer Running NWLink IPX/SPX
+- Q166964 Incorrect File Listing on NetWare Server with DIR /TC Command
+- Q167009 Description of DHCP Server Service Has a Misspelled Word
+- Q167010 Access Violation in CMD.EXE Processing Batch File Script Argument
+- Q167026 Windows NT 4.0 DNS Server Stops Responding To Queries
+- Q167038 RAS Clients Run Winsock and RPC Applications Slowly
+- Q167044 Request From Perfmon Counter Can Cause Excessive Page Faults
+- Q167110 NT 4.0 RAS client slows over time due to lack of resources
+- Q167129 Stop 0x7A or System Lockup in NTBACKUP With MINIQIC
+- Q167130 Fatal System Error in NDIS.SYS Allocating Map Registers
+- Q167362 STOP 0x00000050 in SRV.SYS When Shutting Down Computer
+--------------
 - Service Pack 4 
 - Service Pack 5 
 - Service Pack 6a 
