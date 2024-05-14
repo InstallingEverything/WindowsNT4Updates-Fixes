@@ -330,7 +330,7 @@
 - Q167362 STOP 0x00000050 in SRV.SYS When Shutting Down Computer
 --------------
 
-#**Service Pack 4**
+# **Service Pack 4**
 
 --------------
 - Q109993 Winsock Application Causes 0x0000000A Blue Screen STOP Message
