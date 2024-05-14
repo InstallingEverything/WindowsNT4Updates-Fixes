@@ -323,7 +323,8 @@
 - Q167130 Fatal System Error in NDIS.SYS Allocating Map Registers
 - Q167362 STOP 0x00000050 in SRV.SYS When Shutting Down Computer
 --------------
-- Service Pack 4 
+**Service Pack 4**
+
 --------------
 - Q109993 Winsock Application Causes 0x0000000A Blue Screen STOP Message
 - Q112547 Dial-Up Networking Hangs After Failed Multilink Attempt
@@ -584,7 +585,8 @@
 - Q192687 Upgrading MTS 2.0 DTC to Reduce Memory Usage
 - Q192681 Upgrading MTS 2.0 DTC to Support IBM DB2 and Informix Databases
 --------------
-- Service Pack 5 
+**Service Pack 5** 
+
 --------------
 - Q193361 MSGINA.DLL does not Reset WINLOGON Structure
 - Q194812 All Users See All Other Users' Auto-Created Printers
@@ -644,7 +646,8 @@
 - Q242983 Error Message: Stop 0x0000001E in Win32k!GreRealizePalette()
 
 --------------
-- Service Pack 6/6a 
+**Service Pack 6/6a** 
+
 --------------
 - Q173191 Inserting an Excel Worksheet Object May Fail Under Windows NT
 - Q184232 DCOMCNFG Saves Incorrect Display Name in Services
@@ -940,7 +943,11 @@ Service Pack Setup
 
 # **Updates**
 
+--------------
+
 # **Windows NT4 System Updates**
+
+--------------
 
 - Q238934i - A program using a secure (SSL) connection may stop responding when leaving the connection to the secure server.
 - Q245148i - A change to Winlogon.exe in Service Pack 6 may cause it to hang when you Close all programs and log on as a different user.
@@ -971,12 +978,14 @@ Service Pack Setup
 - KB890175 - Vulnerability in HTML Help Could Allow Code Execution.
 - KB917344 - The Kernel is vulnerable to cursors, animated cursors and icons. The attack causes a DoS. 
 - KB870669 - Critical Update for ADODB.stream.
-- 
-
+--------------
 
 # **Internet Explorer Updates**
 
-For IE6 SP1.
+--------------
+**For IE6 SP1**
+
+--------------
 
 - KB833989 - A security issue has been identified that could allow an attacker to compromise a computer running Windows and gain complete control over it.
 - KB841873 - Vulnerability in Task Scheduler Could Allow Code Execution (841873).
