@@ -2,7 +2,7 @@
 
 # **Service Packs**
 
-- Service Pack 1
+**Service Pack 1**
 --------------
 - Q78303 : Intermittent File Corruption Problem
 - Q142653: STOP Message Occurs Calling GetThreadContext/SetThreadContext
@@ -15,7 +15,7 @@
 - Q149903: File Manager Performs a Move Instead of a Copy
 - Q156832: STOP Message when IBM Warp Client Connects to Windows NT 4.0
 --------------
-- Service Pack 2
+**Service Pack 2**
 --------------
 - Q78303 : Intermittent File Corruption Problem
 - Q142653: STOP Message Occurs Calling GetThreadContext/SetThreadContext
@@ -131,7 +131,7 @@
 - Q159098: NT 4.0 resource Kit utility "Remote Console" client fails       
 - Q159203: HOTFIX: Unattended install prompts for new IP if zero in address
 --------------
-- Service Pack 3 
+**Service Pack 3** 
 --------------
 - Q135707 Programs Run at Priority Level 15 May Cause Computer to Hang
 - Q139506 Connections to Share-Level Server May Fail
