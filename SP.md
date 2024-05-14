@@ -1,12 +1,12 @@
-**CONTENT LIST**
+# **CONTENT LIST**
 
 --------------
 
-**Service Packs**
+# **Service Packs**
 
 --------------
 
-**Service Pack 1**
+# **Service Pack 1**
 
 --------------
 
@@ -21,7 +21,8 @@
 - Q149903: File Manager Performs a Move Instead of a Copy
 - Q156832: STOP Message when IBM Warp Client Connects to Windows NT 4.0
 --------------
-**Service Pack 2**
+
+# **Service Pack 2**
 
 --------------
 
@@ -139,7 +140,8 @@
 - Q159098: NT 4.0 resource Kit utility "Remote Console" client fails       
 - Q159203: HOTFIX: Unattended install prompts for new IP if zero in address
 --------------
-**Service Pack 3** 
+
+# **Service Pack 3** 
 
 --------------
 
@@ -327,7 +329,8 @@
 - Q167130 Fatal System Error in NDIS.SYS Allocating Map Registers
 - Q167362 STOP 0x00000050 in SRV.SYS When Shutting Down Computer
 --------------
-**Service Pack 4**
+
+#**Service Pack 4**
 
 --------------
 - Q109993 Winsock Application Causes 0x0000000A Blue Screen STOP Message
@@ -589,7 +592,8 @@
 - Q192687 Upgrading MTS 2.0 DTC to Reduce Memory Usage
 - Q192681 Upgrading MTS 2.0 DTC to Support IBM DB2 and Informix Databases
 --------------
-**Service Pack 5** 
+
+# **Service Pack 5** 
 
 --------------
 - Q193361 MSGINA.DLL does not Reset WINLOGON Structure
@@ -650,7 +654,8 @@
 - Q242983 Error Message: Stop 0x0000001E in Win32k!GreRealizePalette()
 
 --------------
-**Service Pack 6/6a** 
+
+# **Service Pack 6/6a** 
 
 --------------
 - Q173191 Inserting an Excel Worksheet Object May Fail Under Windows NT
