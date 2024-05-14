@@ -53,8 +53,12 @@
 - KB889293 - Update to fix a buffer overflow vulnerability in Internet Explorer.
 - KB889669 - Cumulative Security Update for Internet Explorer 6 Service Pack 1
 
+--------------
+
 
 # **Microsoft Windows Media Player 6.4 Updates**
+
+--------------
 
 - WM320920_64.exe - Security Update Windows Media Player 6.4
 - WM308567 - .ASF Processor Contains Unchecked Buffer
