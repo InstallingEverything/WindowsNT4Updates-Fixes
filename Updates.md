@@ -5,44 +5,44 @@
 - Service Pack 1
 - Service Pack 2
 --------------
-Q78303 : Intermittent File Corruption Problem
-Q142653: STOP Message Occurs Calling GetThreadContext/SetThreadContext
-Q142654: Winsock Memory Access Violation in Ws2help.dll Or Msafd.dll
-Q142655: Stop Message Appears After Deleting ProductOption Registry Key
-Q142656: Internet Explorer 3.0 on RISC Computer Cannot Connect to Host
-Q142657: Data Corruption on Windows NT 4.0
-Q142658: Internet Information Server Runs Out of Memory
-Q142659: Internet Explorer 2.0 Fails To Check the Country Code/Language
-Q149903: File Manager Performs a Move Instead of a Copy
-Q156832: STOP Message when IBM Warp Client Connects to Windows NT 4.0
-Q102477: Draw Can't Leave Data in Clipboard After Closing Application    
-Q102710: MFX Draw: 16-Bit Device Drivers Incompatible with Windows NT    
-Q106503: FIX: SQL Server FixList for Version 4.20aK11                    
-Q107422: Windows NT Resource Kit Vol. 1 - 3.5 Inch Disk Contents         
-Q108144: FIX: SQL Server FixList for Version 4.20b                       
-Q136032: Systems Management Server Sender Packet Size Computation        
-Q140955: XCLN: Error When Opening Attachment in Client for Windows 3.x   
-Q142625: NETBIOS Defaults To 16 Sessions on Windows NT                   
-Q142634: Multiple Processes Are Able to Open the Same Winsock Port       
-Q142641: Internet Server Unavailable Because of Malicious SYN Attacks    
-Q142648: STOP 0x00000024 in Ntfs.sys                                     
-Q142661: Cacls.exe May Report Errors when Handling Extended Characters   
-Q142671: Backup Fails on Certain Directories Due to Lack of Permissions  
-Q142675: CSNW Sends Packets Greater Than Negotiated Maximum Packet Size  
-Q142687: Windows NT 4.0 Not Able to Read Some Compact Discs              
-Q151989: Novell 32-bit Client for Win95/WinNT Doesn't See FPNW Volume    
-Q152273: DHCP Server May Give Out Duplicate IP Addresses                 
-Q152346: Some DEC TLZ06 4MM DAT Tape Drives Not Recognized by Windows NT 
-Q153665: SPX Data Stream Type Header May Reset Unexpectedly              
-Q154784: Windows NT Operating System SNMP OID Incorrect                  
-Q155117: Shutdown And Power Off Does Not Appear on Shut Down Menu        
-Q155883: NT 4.0 Breaks SNA Server 2.x Server Communication Over IP       
-Q156091: Access Violation with Long NDS Context in CSNW/GSNW             
-Q156095: Replace Command with Space Character in the Path Does Not Work  
-Q156276: Cmd.exe Does Not Support UNC Names as the Current Directory     
-Q156324: Device Failure Message with Microchannel Network Adapter        
-Q156520: Logon Validation Fails Using Domain Name Server (DNS)           
-Q156524: HP PaintJet XL 300 Does Not Print Colors, Only Black            
+- Q78303 : Intermittent File Corruption Problem
+- Q142653: STOP Message Occurs Calling GetThreadContext/SetThreadContext
+- Q142654: Winsock Memory Access Violation in Ws2help.dll Or Msafd.dll
+- Q142655: Stop Message Appears After Deleting ProductOption Registry Key
+- Q142656: Internet Explorer 3.0 on RISC Computer Cannot Connect to Host
+- Q142657: Data Corruption on Windows NT 4.0
+- Q142658: Internet Information Server Runs Out of Memory
+- Q142659: Internet Explorer 2.0 Fails To Check the Country Code/Language
+- Q149903: File Manager Performs a Move Instead of a Copy
+- Q156832: STOP Message when IBM Warp Client Connects to Windows NT 4.0
+- Q102477: Draw Can't Leave Data in Clipboard After Closing Application    
+- Q102710: MFX Draw: 16-Bit Device Drivers Incompatible with Windows NT    
+- Q106503: FIX: SQL Server FixList for Version 4.20aK11                    
+- Q107422: Windows NT Resource Kit Vol. 1 - 3.5 Inch Disk Contents         
+- Q108144: FIX: SQL Server FixList for Version 4.20b                       
+- Q136032: Systems Management Server Sender Packet Size Computation        
+- Q140955: XCLN: Error When Opening Attachment in Client for Windows 3.x   
+- Q142625: NETBIOS Defaults To 16 Sessions on Windows NT                   
+- Q142634: Multiple Processes Are Able to Open the Same Winsock Port       
+- Q142641: Internet Server Unavailable Because of Malicious SYN Attacks    
+- Q142648: STOP 0x00000024 in Ntfs.sys                                     
+- Q142661: Cacls.exe May Report Errors when Handling Extended Characters   
+- Q142671: Backup Fails on Certain Directories Due to Lack of Permissions  
+- Q142675: CSNW Sends Packets Greater Than Negotiated Maximum Packet Size  
+- Q142687: Windows NT 4.0 Not Able to Read Some Compact Discs              
+- Q151989: Novell 32-bit Client for Win95/WinNT Doesn't See FPNW Volume    
+- Q152273: DHCP Server May Give Out Duplicate IP Addresses                 
+- Q152346: Some DEC TLZ06 4MM DAT Tape Drives Not Recognized by Windows NT 
+- Q153665: SPX Data Stream Type Header May Reset Unexpectedly              
+- Q154784: Windows NT Operating System SNMP OID Incorrect                  
+- Q155117: Shutdown And Power Off Does Not Appear on Shut Down Menu        
+- Q155883: NT 4.0 Breaks SNA Server 2.x Server Communication Over IP       
+- Q156091: Access Violation with Long NDS Context in CSNW/GSNW             
+- Q156095: Replace Command with Space Character in the Path Does Not Work  
+- Q156276: Cmd.exe Does Not Support UNC Names as the Current Directory     
+- Q156324: Device Failure Message with Microchannel Network Adapter        
+- Q156520: Logon Validation Fails Using Domain Name Server (DNS)           
+- Q156524: HP PaintJet XL 300 Does Not Print Colors, Only Black            
 Q156608: Err Msg: ôAccount Unknown--Account Deleted                      
 Q156735: WOW Applications Stack Fault When Launched by a Service         
 Q156750: AddGroupNameResponse Frame from WinNT May Cause WFWG to Hang    
