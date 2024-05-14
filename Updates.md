@@ -43,81 +43,82 @@
 - Q156324: Device Failure Message with Microchannel Network Adapter        
 - Q156520: Logon Validation Fails Using Domain Name Server (DNS)           
 - Q156524: HP PaintJet XL 300 Does Not Print Colors, Only Black            
-Q156608: Err Msg: ôAccount Unknown--Account Deleted                      
-Q156735: WOW Applications Stack Fault When Launched by a Service         
-Q156750: AddGroupNameResponse Frame from WinNT May Cause WFWG to Hang    
-Q156884: Problems Saving Event Viewer Log from Windows NT 4.0 to 3.51    
-Q156931: STOP 0x0000001E in Nwrdr.sys                                    
-Q156958: Serial Service Won't Stop with Serial Printer Installed         
-Q156989: Multiple Processes Are Able to Open the Same Winsock Port       
-Q157279: Nwrdr.sys Fails Reading File with Execute Only Attribute        
-Q157289: Memory Leak Using RegConnectRegistry API                        
-Q157621: Personal Groups Not Visible If %Systemroot% Is Read-Only        
-Q157673: Policy Not Updated on Workstation                               
-Q157979: NT/RDR: "Access Denied" with Windows NT 4.0 Ntbackup            
-Q158142: WM_DDE_EXECUTE API Causes a Memory Leak in the WOW Subsystem    
-Q159075: Compression is not supported on Quantum 4000DLT                 
-Q158994: NT 4.0 Fails to Replicate to Backup Domain Controllers          
-Q158387: RAS Server Cannot Use DHCP to Assign Addresses w/ PPTP Filtering
-Q158587: 16-Bit Named Pipe File Open Leads to WOW Access Violation       
-Q158682: Shortcuts Embed Admin$ in .lnk File                             
-Q158706: Shortcuts Embed Admin$ In .LNK File                             
-Q158707: DDE Destroy Window Code may Stop 0x0000001e in Windows NT 4.0   
-Q108261: Windows NT Hangs on Shutdown with Certain PCMCIA Devices        
-Q158981: IBM Thinkpads 760ED and 760ELD May Hang During Shutdown         
-Q159066: A Client Crash May Prevent an NTFS Volume Dismount              
-Q159071: NTFS Does Not Prevent a File Deletion During Rename             
-Q159075: Compression is not supported on Quantum 4000DLT                 
-Q158796: MAC Clients Connected to an NT Server May Intermittently Appear 
-Q149817: STOP 0x0000000A and STOP 0x0000001E in Isotp.sys                
-Q141375: Winstone 97 May Fail on Windows NT 4.0                          
-Q141708: RAS Client IP Addresses Not Returned to Static Address Pool     
-Q142686: First Line of Print Job Lost When Printing Using Lpdsvc         
-Q142847: Bugcheck 0x1e Caused by Isotp.sys Driver                        
-Q142872: Length of PDC Name May Affect Performance on a Domain           
-Q157494: PPC 4.0 Cirrus Driver Fails to Redraw & Fill Objects Correctly  
-Q148602: Running SNA Server 2.11 on the Windows NT 4.0                   
-Q156746: Print Jobs Are Deleted When Printer Is Resumed After Restart    
-Q150815: Windows NT May Fail to Boot on Toshiba Portable Computers       
-Q152455: File Manager Can Only See 32 Volumes of NetWare/FPNW            
-Q152474: Window Socket Application Failure with Connection Reset Event   
-Q154556: Delegation Requires a Stop and Restart of the DNS Server Service
-Q156578: Cannot Cancel Print Job on Windows NT 3.51 Shared Printer       
-Q159107: Access Violaion in Addatom Inside KERNEL32.DLL                  
-Q142903: Windows NT Ndis.sys and Netflx3.sys Performance Improvement     
-Q160583: Windows NT 4.0 With More Than 4 Processors May Stall and Reboot 
-Q159971: SetTimer() API causes Memory leak in the WOW subsystem          
-Q159972: WinNT 4.0 May not Return a Valid Response for SMB Search Command
-Q160015: 2D Vector Performance on WinNT 4.0 Slower Than on 3.51          
-Q160055: Warning Event ID 4010 Generated on Windows NT LPD Server        
-Q160189: CSNW can't see more than 32 volumes per server                  
-Q159095: STOP 0x0000001E in Win32k.sys When Exiting Applications         
-Q160328: Internet Explorer 3.0 causes NT 4.0 to Blue Screen              
-Q159449: DNS Server Glue data gets deleted                               
-Q160601: Bad Parameters Sent to WIN32K.SYS May Blue Screen Windows NT    
-Q160603: No Output from DBMON Using OutputDebugString While Debugging    
-Q160604: Access violation in security!SspQueryContextAttributesW         
-Q160606: Performance enhancements for SQL Server under Windows NT        
-Q160610: READ_REGISTER_ULONG Doesn't Preserve ULONG Semantics on Alpha   
-Q160653: NTFS Fails Assertion Under High Stress During Transfer          
-Q160190: RasSetEntryProperties does not save a full path script name     
-Q159205: HOTFIX: SFM file Type and Creator properties invalid            
-Q160657: 16 Bit Version of VB4 May Hang Windows NT 4.0                   
-Q159108: SMP Full Duplex Adapter Configuration May Cause Blue Screen     
-Q159109: ExitWindowsEx Does Not Work With NEC Power Switch Service       
-Q159110: CDFS Does Not Complete IRPs Correctly                           
-Q159111: Multiprocessor Machine Hangs Under Stress Using HALSP.DLL       
-Q159129: OpenGL Access Violates with Invalid OpenGL Context              
-Q159910: Memory Corruption on a Windows NT Alpha platform                
-Q159204: HOTFIX: IoCompletionPort causes blue screen crash               
-Q159594: Missing EE FontSubstitutes in Registry                          
-Q159206: HOTFIX: Reactivation of paused print queues deletes print jobs  
-Q159311: NT4.0 RAS not releasing static IP Addresses                     
-Q159315: NT 4.0 RAS Server does not release static IP addresses          
-Q159347: Using NetBEUI for RAS Connector on Windows NT 4.0               
-Q159447: HOTFIX: Applications testing for directory existence fail       
-Q159098: NT 4.0 resource Kit utility "Remote Console" client fails       
-Q159203: HOTFIX: Unattended install prompts for new IP if zero in address
+- Q156608: Err Msg: ôAccount Unknown--Account Deleted                      
+- Q156735: WOW Applications Stack Fault When Launched by a Service         
+- Q156750: AddGroupNameResponse Frame from WinNT May Cause WFWG to Hang    
+- Q156884: Problems Saving Event Viewer Log from Windows NT 4.0 to 3.51    
+- Q156931: STOP 0x0000001E in Nwrdr.sys                                    
+- Q156958: Serial Service Won't Stop with Serial Printer Installed         
+- Q156989: Multiple Processes Are Able to Open the Same Winsock Port       
+- Q157279: Nwrdr.sys Fails Reading File with Execute Only Attribute        
+- Q157289: Memory Leak Using RegConnectRegistry API                        
+- Q157621: Personal Groups Not Visible If %Systemroot% Is Read-Only        
+- Q157673: Policy Not Updated on Workstation                               
+- Q157979: NT/RDR: "Access Denied" with Windows NT 4.0 Ntbackup            
+- Q158142: WM_DDE_EXECUTE API Causes a Memory Leak in the WOW Subsystem    
+- Q159075: Compression is not supported on Quantum 4000DLT                 
+- Q158994: NT 4.0 Fails to Replicate to Backup Domain Controllers          
+- Q158387: RAS Server Cannot Use DHCP to Assign Addresses w/ PPTP Filtering
+- Q158587: 16-Bit Named Pipe File Open Leads to WOW Access Violation       
+- Q158682: Shortcuts Embed Admin$ in .lnk File                             
+- Q158706: Shortcuts Embed Admin$ In .LNK File                             
+- Q158707: DDE Destroy Window Code may Stop 0x0000001e in Windows NT 4.0   
+- Q108261: Windows NT Hangs on Shutdown with Certain PCMCIA Devices        
+- Q158981: IBM Thinkpads 760ED and 760ELD May Hang During Shutdown         
+- Q159066: A Client Crash May Prevent an NTFS Volume Dismount              
+- Q159071: NTFS Does Not Prevent a File Deletion During Rename             
+- Q159075: Compression is not supported on Quantum 4000DLT                 
+- Q158796: MAC Clients Connected to an NT Server May Intermittently Appear 
+- Q149817: STOP 0x0000000A and STOP 0x0000001E in Isotp.sys                
+- Q141375: Winstone 97 May Fail on Windows NT 4.0                          
+- Q141708: RAS Client IP Addresses Not Returned to Static Address Pool     
+- Q142686: First Line of Print Job Lost When Printing Using Lpdsvc         
+- Q142847: Bugcheck 0x1e Caused by Isotp.sys Driver                        
+- Q142872: Length of PDC Name May Affect Performance on a Domain           
+- Q157494: PPC 4.0 Cirrus Driver Fails to Redraw & Fill Objects Correctly  
+- Q148602: Running SNA Server 2.11 on the Windows NT 4.0                   
+- Q156746: Print Jobs Are Deleted When Printer Is Resumed After Restart    
+- Q150815: Windows NT May Fail to Boot on Toshiba Portable Computers       
+- Q152455: File Manager Can Only See 32 Volumes of NetWare/FPNW            
+- Q152474: Window Socket Application Failure with Connection Reset Event   
+- Q154556: Delegation Requires a Stop and Restart of the DNS Server Service
+- Q156578: Cannot Cancel Print Job on Windows NT 3.51 Shared Printer       
+- Q159107: Access Violaion in Addatom Inside KERNEL32.DLL                  
+- Q142903: Windows NT Ndis.sys and Netflx3.sys Performance Improvement     
+- Q160583: Windows NT 4.0 With More Than 4 Processors May Stall and Reboot 
+- Q159971: SetTimer() API causes Memory leak in the WOW subsystem          
+- Q159972: WinNT 4.0 May not Return a Valid Response for SMB Search Command
+- Q160015: 2D Vector Performance on WinNT 4.0 Slower Than on 3.51          
+- Q160055: Warning Event ID 4010 Generated on Windows NT LPD Server        
+- Q160189: CSNW can't see more than 32 volumes per server                  
+- Q159095: STOP 0x0000001E in Win32k.sys When Exiting Applications         
+- Q160328: Internet Explorer 3.0 causes NT 4.0 to Blue Screen              
+- Q159449: DNS Server Glue data gets deleted                               
+- Q160601: Bad Parameters Sent to WIN32K.SYS May Blue Screen Windows NT    
+- Q160603: No Output from DBMON Using OutputDebugString While Debugging    
+- Q160604: Access violation in security!SspQueryContextAttributesW         
+- Q160606: Performance enhancements for SQL Server under Windows NT        
+- Q160610: READ_REGISTER_ULONG Doesn't Preserve ULONG Semantics on Alpha   
+- Q160653: NTFS Fails Assertion Under High Stress During Transfer          
+- Q160190: RasSetEntryProperties does not save a full path script name     
+- Q159205: HOTFIX: SFM file Type and Creator properties invalid            
+- Q160657: 16 Bit Version of VB4 May Hang Windows NT 4.0                   
+- Q159108: SMP Full Duplex Adapter Configuration May Cause Blue Screen     
+- Q159109: ExitWindowsEx Does Not Work With NEC Power Switch Service       
+- Q159110: CDFS Does Not Complete IRPs Correctly                           
+- Q159111: Multiprocessor Machine Hangs Under Stress Using HALSP.DLL       
+- Q159129: OpenGL Access Violates with Invalid OpenGL Context              
+- Q159910: Memory Corruption on a Windows NT Alpha platform                
+- Q159204: HOTFIX: IoCompletionPort causes blue screen crash               
+- Q159594: Missing EE FontSubstitutes in Registry                          
+- Q159206: HOTFIX: Reactivation of paused print queues deletes print jobs  
+- Q159311: NT4.0 RAS not releasing static IP Addresses                     
+- Q159315: NT 4.0 RAS Server does not release static IP addresses          
+- Q159347: Using NetBEUI for RAS Connector on Windows NT 4.0               
+- Q159447: HOTFIX: Applications testing for directory existence fail       
+- Q159098: NT 4.0 resource Kit utility "Remote Console" client fails       
+- Q159203: HOTFIX: Unattended install prompts for new IP if zero in address
+--------------
 - Service Pack 3 
 - Service Pack 4 
 - Service Pack 5 
