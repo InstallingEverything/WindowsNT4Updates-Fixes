@@ -15,22 +15,23 @@ Download the ISO and mount in the VM or burn to DVD.
 
 ISO will autostart to menu.
 
-![Alt text](Screenshot1.png)
+![Alt text](Screenshot2.png)
 
 
 
 # **Contents**
 
 - [Updates](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Updates.md)
+- [Service Packs](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/SP.md)
 - [Drivers](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Drivers.md)
 - [Apps](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Apps.md)
 
 
 # **Installing**
 
-1. NT4 Patches on root folder if needed.
-2. Internet Explorer installs on root folder if needed.
-3. Follow the menu for install in order.
+1. Follow the menu for install in order.
+2. Internet Explorer installs on root of CD if needed or accessed via Menu.
+3. Service Packs on root of CD if needed or accessed via Menu.
 
 **Stats**
 
