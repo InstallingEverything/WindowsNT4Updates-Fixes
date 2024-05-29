@@ -15,7 +15,7 @@ Download the ISO and mount in the VM or burn to DVD.
 
 ISO will autostart to menu.
 
-![Alt text](Screenshot1.png)
+![Alt text](Screenshot2.png)
 
 
 
