@@ -6,7 +6,7 @@
 
 --------------
 
-# **Windows NT4 System Updates**
+# **Windows NT 4.0 System Updates**
 
 --------------
 
