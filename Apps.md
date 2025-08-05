@@ -1,4 +1,4 @@
-**APP Packages**
+**App Packages**
 
 # **Microsoft Apps**
 
