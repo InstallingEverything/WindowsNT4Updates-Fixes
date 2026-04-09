@@ -1,46 +1,54 @@
-# Microsoft Windows NT 4.0 Updates, Fixes and Drivers 
+# Windows NT 4.0 Updates, Fixes & Drivers
 
-Bringing NT 4.0 as upto date as possible.
+A curated collection of updates, fixes, drivers, and applications for Microsoft Windows NT 4.0,
+compiled to bring the OS as close to current as possible.
 
-![Alt text](NT4Logo.png)
+![Windows NT 4.0 Logo](NT4Logo.png)
 
+## Overview
 
-Compiled list of Updates, Fixes & Drivers by us for Microsoft Windows NT 4.0.
+This project provides a bootable ISO containing service packs, hotfixes, drivers, and
+essential applications for Windows NT 4.0, primarily targeting virtual machine environments.
 
-# **Getting Started**
+## Getting Started
 
-# **Always recommended to snapshot VM first!!!!**
+> **Important:** It is strongly recommended to take a VM snapshot before proceeding.
 
-Download the ISO and mount in the VM or burn to DVD.
+1. Download the ISO from the [Releases](../../releases) page.
+2. Mount it in your VM or burn it to a DVD.
+3. The ISO will autostart and display an interactive menu.
 
-ISO will autostart to menu.
+![Autostart menu screenshot](Screenshot2.png)
 
-![Alt text](Screenshot2.png)
+## Installation
 
+Follow the menu options in order. Items can also be accessed directly from the root of the disc:
 
+- **Service Packs** — install before any other updates
+- **Internet Explorer** — available on the root of the disc or via the menu
 
-# **Contents**
+## Contents
 
-- [Updates](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Updates.md)
-- [Service Packs](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/SP.md)
-- [Drivers](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Drivers.md)
-- [Apps](https://github.com/InstallingEverything/WindowsNT4Updates-Fixes/blob/main/Apps.md)
+| Section | Description |
+|---|---|
+| [Updates](Updates.md) | Hotfixes and patches |
+| [Service Packs](SP.md) | Official Microsoft service packs |
+| [Drivers](Drivers.md) | Hardware drivers (USB, audio, video) |
+| [Apps](Apps.md) | Essential applications (.NET, IE, Media Player, etc.) |
 
+## Compatibility
 
-# **Installing**
+The included drivers have been tested with:
 
-1. Follow the menu for install in order.
-2. Internet Explorer installs on root of CD if needed or accessed via Menu.
-3. Service Packs on root of CD if needed or accessed via Menu.
+- VMware Workstation (all drivers supported, including SVGA II video)
+- PCem and VirtualBox (audio and USB drivers only — video driver is VMware-specific)
 
-**Stats**
+## Stats
 
-- ![GitHub commits since latest release](https://img.shields.io/github/commits-since/InstallingEverything/WindowsNT4Updates-Fixes/latest?style=plastic&label=Commits)
-- ![GitHub Release](https://img.shields.io/github/v/release/InstallingEverything/WindowsNT4Updates-Fixes?display_name=release&style=plastic&label=Release)
-- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/InstallingEverything/WindowsNT4Updates-Fixes/total?style=plastic&label=Downloads)
+![Commits since release](https://img.shields.io/github/commits-since/InstallingEverything/WindowsNT4Updates-Fixes/latest?style=plastic&label=Commits)
+![Latest release](https://img.shields.io/github/v/release/InstallingEverything/WindowsNT4Updates-Fixes?display_name=release&style=plastic&label=Release)
+![Total downloads](https://img.shields.io/github/downloads/InstallingEverything/WindowsNT4Updates-Fixes/total?style=plastic&label=Downloads)
 
+---
 
-    
-Many thanks!
-
-Installing Everything
+*Compiled and maintained by [Installing Everything](https://github.com/InstallingEverything).*
