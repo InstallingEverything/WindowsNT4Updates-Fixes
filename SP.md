@@ -1,16 +1,24 @@
-# **CONTENT LIST**
+# Service Packs
 
---------------
+Service packs for Windows NT 4.0, listed in release order. Install them sequentially —
+each pack is cumulative and includes all fixes from previous releases.
 
-# **Service Packs**
+> **Note:** KB article IDs use the legacy `Q` prefix (Microsoft's pre-2003 Knowledge Base format).
 
---------------
+## Contents
 
-# **Service Pack 1**
+- [Service Pack 1](#service-pack-1)
+- [Service Pack 2](#service-pack-2)
+- [Service Pack 3](#service-pack-3)
+- [Service Pack 4](#service-pack-4)
+- [Service Pack 5](#service-pack-5)
+- [Service Pack 6 / 6a](#service-pack-6--6a)
 
---------------
+---
 
-- Q78303 : Intermittent File Corruption Problem
+## Service Pack 1
+
+- Q78303: Intermittent File Corruption Problem
 - Q142653: STOP Message Occurs Calling GetThreadContext/SetThreadContext
 - Q142654: Winsock Memory Access Violation in Ws2help.dll Or Msafd.dll
 - Q142655: Stop Message Appears After Deleting ProductOption Registry Key
@@ -20,13 +28,12 @@
 - Q142659: Internet Explorer 2.0 Fails To Check the Country Code/Language
 - Q149903: File Manager Performs a Move Instead of a Copy
 - Q156832: STOP Message when IBM Warp Client Connects to Windows NT 4.0
---------------
 
-# **Service Pack 2**
+---
 
---------------
+## Service Pack 2
 
-- Q78303 : Intermittent File Corruption Problem
+- Q78303: Intermittent File Corruption Problem
 - Q142653: STOP Message Occurs Calling GetThreadContext/SetThreadContext
 - Q142654: Winsock Memory Access Violation in Ws2help.dll Or Msafd.dll
 - Q142655: Stop Message Appears After Deleting ProductOption Registry Key
@@ -36,114 +43,113 @@
 - Q142659: Internet Explorer 2.0 Fails To Check the Country Code/Language
 - Q149903: File Manager Performs a Move Instead of a Copy
 - Q156832: STOP Message when IBM Warp Client Connects to Windows NT 4.0
-- Q102477: Draw Can't Leave Data in Clipboard After Closing Application    
-- Q102710: MFX Draw: 16-Bit Device Drivers Incompatible with Windows NT    
-- Q106503: FIX: SQL Server FixList for Version 4.20aK11                    
-- Q107422: Windows NT Resource Kit Vol. 1 - 3.5 Inch Disk Contents         
-- Q108144: FIX: SQL Server FixList for Version 4.20b                       
-- Q136032: Systems Management Server Sender Packet Size Computation        
-- Q140955: XCLN: Error When Opening Attachment in Client for Windows 3.x   
-- Q142625: NETBIOS Defaults To 16 Sessions on Windows NT                   
-- Q142634: Multiple Processes Are Able to Open the Same Winsock Port       
-- Q142641: Internet Server Unavailable Because of Malicious SYN Attacks    
-- Q142648: STOP 0x00000024 in Ntfs.sys                                     
-- Q142661: Cacls.exe May Report Errors when Handling Extended Characters   
-- Q142671: Backup Fails on Certain Directories Due to Lack of Permissions  
-- Q142675: CSNW Sends Packets Greater Than Negotiated Maximum Packet Size  
-- Q142687: Windows NT 4.0 Not Able to Read Some Compact Discs              
-- Q151989: Novell 32-bit Client for Win95/WinNT Doesn't See FPNW Volume    
-- Q152273: DHCP Server May Give Out Duplicate IP Addresses                 
-- Q152346: Some DEC TLZ06 4MM DAT Tape Drives Not Recognized by Windows NT 
-- Q153665: SPX Data Stream Type Header May Reset Unexpectedly              
-- Q154784: Windows NT Operating System SNMP OID Incorrect                  
-- Q155117: Shutdown And Power Off Does Not Appear on Shut Down Menu        
-- Q155883: NT 4.0 Breaks SNA Server 2.x Server Communication Over IP       
-- Q156091: Access Violation with Long NDS Context in CSNW/GSNW             
-- Q156095: Replace Command with Space Character in the Path Does Not Work  
-- Q156276: Cmd.exe Does Not Support UNC Names as the Current Directory     
-- Q156324: Device Failure Message with Microchannel Network Adapter        
-- Q156520: Logon Validation Fails Using Domain Name Server (DNS)           
-- Q156524: HP PaintJet XL 300 Does Not Print Colors, Only Black            
-- Q156608: Err Msg: ôAccount Unknown--Account Deleted                      
-- Q156735: WOW Applications Stack Fault When Launched by a Service         
-- Q156750: AddGroupNameResponse Frame from WinNT May Cause WFWG to Hang    
-- Q156884: Problems Saving Event Viewer Log from Windows NT 4.0 to 3.51    
-- Q156931: STOP 0x0000001E in Nwrdr.sys                                    
-- Q156958: Serial Service Won't Stop with Serial Printer Installed         
-- Q156989: Multiple Processes Are Able to Open the Same Winsock Port       
-- Q157279: Nwrdr.sys Fails Reading File with Execute Only Attribute        
-- Q157289: Memory Leak Using RegConnectRegistry API                        
-- Q157621: Personal Groups Not Visible If %Systemroot% Is Read-Only        
-- Q157673: Policy Not Updated on Workstation                               
-- Q157979: NT/RDR: "Access Denied" with Windows NT 4.0 Ntbackup            
-- Q158142: WM_DDE_EXECUTE API Causes a Memory Leak in the WOW Subsystem    
-- Q159075: Compression is not supported on Quantum 4000DLT                 
-- Q158994: NT 4.0 Fails to Replicate to Backup Domain Controllers          
+- Q102477: Draw Can't Leave Data in Clipboard After Closing Application
+- Q102710: MFX Draw: 16-Bit Device Drivers Incompatible with Windows NT
+- Q106503: FIX: SQL Server FixList for Version 4.20aK11
+- Q107422: Windows NT Resource Kit Vol. 1 - 3.5 Inch Disk Contents
+- Q108144: FIX: SQL Server FixList for Version 4.20b
+- Q136032: Systems Management Server Sender Packet Size Computation
+- Q140955: XCLN: Error When Opening Attachment in Client for Windows 3.x
+- Q142625: NETBIOS Defaults To 16 Sessions on Windows NT
+- Q142634: Multiple Processes Are Able to Open the Same Winsock Port
+- Q142641: Internet Server Unavailable Because of Malicious SYN Attacks
+- Q142648: STOP 0x00000024 in Ntfs.sys
+- Q142661: Cacls.exe May Report Errors when Handling Extended Characters
+- Q142671: Backup Fails on Certain Directories Due to Lack of Permissions
+- Q142675: CSNW Sends Packets Greater Than Negotiated Maximum Packet Size
+- Q142687: Windows NT 4.0 Not Able to Read Some Compact Discs
+- Q151989: Novell 32-bit Client for Win95/WinNT Doesn't See FPNW Volume
+- Q152273: DHCP Server May Give Out Duplicate IP Addresses
+- Q152346: Some DEC TLZ06 4MM DAT Tape Drives Not Recognized by Windows NT
+- Q153665: SPX Data Stream Type Header May Reset Unexpectedly
+- Q154784: Windows NT Operating System SNMP OID Incorrect
+- Q155117: Shutdown And Power Off Does Not Appear on Shut Down Menu
+- Q155883: NT 4.0 Breaks SNA Server 2.x Server Communication Over IP
+- Q156091: Access Violation with Long NDS Context in CSNW/GSNW
+- Q156095: Replace Command with Space Character in the Path Does Not Work
+- Q156276: Cmd.exe Does Not Support UNC Names as the Current Directory
+- Q156324: Device Failure Message with Microchannel Network Adapter
+- Q156520: Logon Validation Fails Using Domain Name Server (DNS)
+- Q156524: HP PaintJet XL 300 Does Not Print Colors, Only Black
+- Q156608: Err Msg: Account Unknown--Account Deleted
+- Q156735: WOW Applications Stack Fault When Launched by a Service
+- Q156750: AddGroupNameResponse Frame from WinNT May Cause WFWG to Hang
+- Q156884: Problems Saving Event Viewer Log from Windows NT 4.0 to 3.51
+- Q156931: STOP 0x0000001E in Nwrdr.sys
+- Q156958: Serial Service Won't Stop with Serial Printer Installed
+- Q156989: Multiple Processes Are Able to Open the Same Winsock Port
+- Q157279: Nwrdr.sys Fails Reading File with Execute Only Attribute
+- Q157289: Memory Leak Using RegConnectRegistry API
+- Q157621: Personal Groups Not Visible If %Systemroot% Is Read-Only
+- Q157673: Policy Not Updated on Workstation
+- Q157979: NT/RDR: "Access Denied" with Windows NT 4.0 Ntbackup
+- Q158142: WM_DDE_EXECUTE API Causes a Memory Leak in the WOW Subsystem
+- Q159075: Compression is not supported on Quantum 4000DLT
+- Q158994: NT 4.0 Fails to Replicate to Backup Domain Controllers
 - Q158387: RAS Server Cannot Use DHCP to Assign Addresses w/ PPTP Filtering
-- Q158587: 16-Bit Named Pipe File Open Leads to WOW Access Violation       
-- Q158682: Shortcuts Embed Admin$ in .lnk File                             
-- Q158706: Shortcuts Embed Admin$ In .LNK File                             
-- Q158707: DDE Destroy Window Code may Stop 0x0000001e in Windows NT 4.0   
-- Q108261: Windows NT Hangs on Shutdown with Certain PCMCIA Devices        
-- Q158981: IBM Thinkpads 760ED and 760ELD May Hang During Shutdown         
-- Q159066: A Client Crash May Prevent an NTFS Volume Dismount              
-- Q159071: NTFS Does Not Prevent a File Deletion During Rename             
-- Q159075: Compression is not supported on Quantum 4000DLT                 
-- Q158796: MAC Clients Connected to an NT Server May Intermittently Appear 
-- Q149817: STOP 0x0000000A and STOP 0x0000001E in Isotp.sys                
-- Q141375: Winstone 97 May Fail on Windows NT 4.0                          
-- Q141708: RAS Client IP Addresses Not Returned to Static Address Pool     
-- Q142686: First Line of Print Job Lost When Printing Using Lpdsvc         
-- Q142847: Bugcheck 0x1e Caused by Isotp.sys Driver                        
-- Q142872: Length of PDC Name May Affect Performance on a Domain           
-- Q157494: PPC 4.0 Cirrus Driver Fails to Redraw & Fill Objects Correctly  
-- Q148602: Running SNA Server 2.11 on the Windows NT 4.0                   
-- Q156746: Print Jobs Are Deleted When Printer Is Resumed After Restart    
-- Q150815: Windows NT May Fail to Boot on Toshiba Portable Computers       
-- Q152455: File Manager Can Only See 32 Volumes of NetWare/FPNW            
-- Q152474: Window Socket Application Failure with Connection Reset Event   
+- Q158587: 16-Bit Named Pipe File Open Leads to WOW Access Violation
+- Q158682: Shortcuts Embed Admin$ in .lnk File
+- Q158706: Shortcuts Embed Admin$ In .LNK File
+- Q158707: DDE Destroy Window Code may Stop 0x0000001e in Windows NT 4.0
+- Q108261: Windows NT Hangs on Shutdown with Certain PCMCIA Devices
+- Q158981: IBM Thinkpads 760ED and 760ELD May Hang During Shutdown
+- Q159066: A Client Crash May Prevent an NTFS Volume Dismount
+- Q159071: NTFS Does Not Prevent a File Deletion During Rename
+- Q159075: Compression is not supported on Quantum 4000DLT
+- Q158796: MAC Clients Connected to an NT Server May Intermittently Appear
+- Q149817: STOP 0x0000000A and STOP 0x0000001E in Isotp.sys
+- Q141375: Winstone 97 May Fail on Windows NT 4.0
+- Q141708: RAS Client IP Addresses Not Returned to Static Address Pool
+- Q142686: First Line of Print Job Lost When Printing Using Lpdsvc
+- Q142847: Bugcheck 0x1e Caused by Isotp.sys Driver
+- Q142872: Length of PDC Name May Affect Performance on a Domain
+- Q157494: PPC 4.0 Cirrus Driver Fails to Redraw & Fill Objects Correctly
+- Q148602: Running SNA Server 2.11 on the Windows NT 4.0
+- Q156746: Print Jobs Are Deleted When Printer Is Resumed After Restart
+- Q150815: Windows NT May Fail to Boot on Toshiba Portable Computers
+- Q152455: File Manager Can Only See 32 Volumes of NetWare/FPNW
+- Q152474: Window Socket Application Failure with Connection Reset Event
 - Q154556: Delegation Requires a Stop and Restart of the DNS Server Service
-- Q156578: Cannot Cancel Print Job on Windows NT 3.51 Shared Printer       
-- Q159107: Access Violaion in Addatom Inside KERNEL32.DLL                  
-- Q142903: Windows NT Ndis.sys and Netflx3.sys Performance Improvement     
-- Q160583: Windows NT 4.0 With More Than 4 Processors May Stall and Reboot 
-- Q159971: SetTimer() API causes Memory leak in the WOW subsystem          
+- Q156578: Cannot Cancel Print Job on Windows NT 3.51 Shared Printer
+- Q159107: Access Violation in Addatom Inside KERNEL32.DLL
+- Q142903: Windows NT Ndis.sys and Netflx3.sys Performance Improvement
+- Q160583: Windows NT 4.0 With More Than 4 Processors May Stall and Reboot
+- Q159971: SetTimer() API causes Memory leak in the WOW subsystem
 - Q159972: WinNT 4.0 May not Return a Valid Response for SMB Search Command
-- Q160015: 2D Vector Performance on WinNT 4.0 Slower Than on 3.51          
-- Q160055: Warning Event ID 4010 Generated on Windows NT LPD Server        
-- Q160189: CSNW can't see more than 32 volumes per server                  
-- Q159095: STOP 0x0000001E in Win32k.sys When Exiting Applications         
-- Q160328: Internet Explorer 3.0 causes NT 4.0 to Blue Screen              
-- Q159449: DNS Server Glue data gets deleted                               
-- Q160601: Bad Parameters Sent to WIN32K.SYS May Blue Screen Windows NT    
-- Q160603: No Output from DBMON Using OutputDebugString While Debugging    
-- Q160604: Access violation in security!SspQueryContextAttributesW         
-- Q160606: Performance enhancements for SQL Server under Windows NT        
-- Q160610: READ_REGISTER_ULONG Doesn't Preserve ULONG Semantics on Alpha   
-- Q160653: NTFS Fails Assertion Under High Stress During Transfer          
-- Q160190: RasSetEntryProperties does not save a full path script name     
-- Q159205: HOTFIX: SFM file Type and Creator properties invalid            
-- Q160657: 16 Bit Version of VB4 May Hang Windows NT 4.0                   
-- Q159108: SMP Full Duplex Adapter Configuration May Cause Blue Screen     
-- Q159109: ExitWindowsEx Does Not Work With NEC Power Switch Service       
-- Q159110: CDFS Does Not Complete IRPs Correctly                           
-- Q159111: Multiprocessor Machine Hangs Under Stress Using HALSP.DLL       
-- Q159129: OpenGL Access Violates with Invalid OpenGL Context              
-- Q159910: Memory Corruption on a Windows NT Alpha platform                
-- Q159204: HOTFIX: IoCompletionPort causes blue screen crash               
-- Q159594: Missing EE FontSubstitutes in Registry                          
-- Q159206: HOTFIX: Reactivation of paused print queues deletes print jobs  
-- Q159311: NT4.0 RAS not releasing static IP Addresses                     
-- Q159315: NT 4.0 RAS Server does not release static IP addresses          
-- Q159347: Using NetBEUI for RAS Connector on Windows NT 4.0               
-- Q159447: HOTFIX: Applications testing for directory existence fail       
-- Q159098: NT 4.0 resource Kit utility "Remote Console" client fails       
+- Q160015: 2D Vector Performance on WinNT 4.0 Slower Than on 3.51
+- Q160055: Warning Event ID 4010 Generated on Windows NT LPD Server
+- Q160189: CSNW can't see more than 32 volumes per server
+- Q159095: STOP 0x0000001E in Win32k.sys When Exiting Applications
+- Q160328: Internet Explorer 3.0 causes NT 4.0 to Blue Screen
+- Q159449: DNS Server Glue data gets deleted
+- Q160601: Bad Parameters Sent to WIN32K.SYS May Blue Screen Windows NT
+- Q160603: No Output from DBMON Using OutputDebugString While Debugging
+- Q160604: Access violation in security!SspQueryContextAttributesW
+- Q160606: Performance enhancements for SQL Server under Windows NT
+- Q160610: READ_REGISTER_ULONG Doesn't Preserve ULONG Semantics on Alpha
+- Q160653: NTFS Fails Assertion Under High Stress During Transfer
+- Q160190: RasSetEntryProperties does not save a full path script name
+- Q159205: HOTFIX: SFM file Type and Creator properties invalid
+- Q160657: 16 Bit Version of VB4 May Hang Windows NT 4.0
+- Q159108: SMP Full Duplex Adapter Configuration May Cause Blue Screen
+- Q159109: ExitWindowsEx Does Not Work With NEC Power Switch Service
+- Q159110: CDFS Does Not Complete IRPs Correctly
+- Q159111: Multiprocessor Machine Hangs Under Stress Using HALSP.DLL
+- Q159129: OpenGL Access Violates with Invalid OpenGL Context
+- Q159910: Memory Corruption on a Windows NT Alpha platform
+- Q159204: HOTFIX: IoCompletionPort causes blue screen crash
+- Q159594: Missing EE FontSubstitutes in Registry
+- Q159206: HOTFIX: Reactivation of paused print queues deletes print jobs
+- Q159311: NT4.0 RAS not releasing static IP Addresses
+- Q159315: NT 4.0 RAS Server does not release static IP addresses
+- Q159347: Using NetBEUI for RAS Connector on Windows NT 4.0
+- Q159447: HOTFIX: Applications testing for directory existence fail
+- Q159098: NT 4.0 resource Kit utility "Remote Console" client fails
 - Q159203: HOTFIX: Unattended install prompts for new IP if zero in address
---------------
 
-# **Service Pack 3** 
+---
 
---------------
+## Service Pack 3
 
 - Q135707 Programs Run at Priority Level 15 May Cause Computer to Hang
 - Q139506 Connections to Share-Level Server May Fail
@@ -328,11 +334,11 @@
 - Q167129 Stop 0x7A or System Lockup in NTBACKUP With MINIQIC
 - Q167130 Fatal System Error in NDIS.SYS Allocating Map Registers
 - Q167362 STOP 0x00000050 in SRV.SYS When Shutting Down Computer
---------------
 
-# **Service Pack 4**
+---
 
---------------
+## Service Pack 4
+
 - Q109993 Winsock Application Causes 0x0000000A Blue Screen STOP Message
 - Q112547 Dial-Up Networking Hangs After Failed Multilink Attempt
 - Q123597 WinNT Err Msg: Error 614 Out of Buffers When Using RAS Script
@@ -343,7 +349,7 @@
 - Q138791 SCSI Printing Devices Requiring Wide SCSI May Fail
 - Q141496 DHCP Client Comment Disappears When Obtaining IP Address
 - Q141708 Printing to LPD Printer Is Slow or Fails with Windows NT
-- Q142026 "Err: ""Hidden Console of WOW VDM"" Running 16-bit or MS-DOS App"
+- Q142026 Err: "Hidden Console of WOW VDM" Running 16-bit or MS-DOS App
 - Q142047 Bad Network Packet May Cause Access Violation (AV) on DNS Server
 - Q142615 Event Log Service Fails to Check Access to Security Log File
 - Q142635 Cannot Change the Drive Letter of Removable Drives
@@ -368,7 +374,7 @@
 - Q154087 Access Violation in Lsass.exe Due to Incorrect Buffer Size
 - Q154094 Using Iomega ATAPI Zip Drives with Windows NT
 - Q154162 Memory Leak in Perfmon.exe Occurs Monitoring WINS Counters
-- Q154174 "Invalid ICMP Datagram Fragments Hang Windows NT, Windows 95"
+- Q154174 Invalid ICMP Datagram Fragments Hang Windows NT, Windows 95
 - Q154387 TAPISRV.EXE Thread Uses Excessive CPU Time
 - Q154398 BDC Secure Channel May Fail If More Than 250 Computer Accounts
 - Q154460 Denial of Service Attack Against WinNT Simple TCP/IP Services
@@ -392,7 +398,7 @@
 - Q158682 Shortcuts Created Under Windows NT 4.0 Resolve to UNC Paths
 - Q158706 Netmon Performance Counters Support a Maximum of Eight Adapters
 - Q159310 Updated Version of Dns.exe Fixes Several Problems
-- Q159595 "Missing Uppercase ""A"" Character in the 1257 Font"
+- Q159595 Missing Uppercase "A" Character in the 1257 Font
 - Q159599 WINS Consistency Checking May Not Start at Scheduled Time
 - Q159839 Sysdiff Does Not Add Empty Directories
 - Q159909 STOP 0x0000000A May Occur on Multiprocessor Systems
@@ -415,7 +421,7 @@
 - Q165387 Sharing Violation When Deleting a Folder
 - Q165404 Windows NT Virtual DOS Machine Access Violation on Servers with Microsoft Exchange Connector for Lotus cc:Mail
 - Q165439 Parsing LMHOSTS with Invalid Entries Can Cause Stop 0x1E
-- Q165664 "RPC Encoding API ""MesInqProcEncodingId"" Not Work for a Decoding Handle"
+- Q165664 RPC Encoding API "MesInqProcEncodingId" Not Work for a Decoding Handle
 - Q165989 GetPeerName() Returns WSAENOTCONN After Select() Returns Success
 - Q166571 Creating an SFM Volume on Large Partition Causes a Stop 0x24
 - Q166822 Remote Password Change Works Incorrectly to Down-Level Server
@@ -423,12 +429,12 @@
 - Q167038 RAS Clients Run Winsock and RPC Applications Slowly
 - Q167040 Point to Point Tunneling Protocol (PPTP) Performance Update for Windows NT 4.0 Release Notes
 - Q167110 WinNT Err. Msg: Stop 0x1E in Fpnwsrv.sys
-- Q167395 "If RouteTimeOut Is Set to a Value Lower Than the Default of 180 Seconds, Routes May Expire Prematurely"
+- Q167395 If RouteTimeOut Is Set to a Value Lower Than the Default of 180 Seconds, Routes May Expire Prematurely
 - Q167629 Predictable Query IDs Pose Security Risks for DNS Servers
 - Q167703 Canon Bubble Jet BJC-4300 Does Not Support Ledger Paper Even Though Driver Gives That Option
 - Q167708 BootP Client Names Disappear in DHCP Manager
-- Q167871 "Error Message ""Directory Is Not a Subdirectory of the Root Directory"" When You Connect to a Share on Windows NT 4.0 NTFS Partition"
-- Q167969 "Under Windows NT, Win16 Applications Opening MS-DOS Devices Fail"
+- Q167871 Error Message "Directory Is Not a Subdirectory of the Root Directory" When You Connect to a Share on Windows NT 4.0 NTFS Partition
+- Q167969 Under Windows NT, Win16 Applications Opening MS-DOS Devices Fail
 - Q168076 WINS Fails to Converge
 - Q168662 DLC May Fail When Connecting Through an IBM 2210 Router
 - Q168748 Java Applets Cause IE 3.02 to Stop Responding w/ SP3
@@ -476,14 +482,14 @@
 - Q172122 Toshiba I586 Pro 230 MHz System and the National 307 Chip
 - Q172124 Poledit.exe Does Not Get Updated During Windows NT Service Pack 3 Installation
 - Q172147 Add Printer Wizard Stops Responding (Hangs) When Searching for Remote Printers
-- Q172290 "Routing and Remote Access ""Out of Buffers"" Event Logs"
-- Q172511 Stop 0x0000000A with Services for Macintosh and McAfee Anti- Virus
+- Q172290 Routing and Remote Access "Out of Buffers" Event Logs
+- Q172511 Stop 0x0000000A with Services for Macintosh and McAfee Anti-Virus
 - Q172512 Routing and Remote Access Event ID 20100
 - Q172613 Errors Connecting Through RAS When Password Expires
 - Q172705 Explorer Access Violates When Viewing a File's Properties
 - Q172762 Continuous Bhnt.sys Load and Unload Causes STOP 0xA and 0x7F
 - Q172885 NetWare Print Server Names With Periods Truncated in Explorer
-- Q172930 "Removal of ""Bypass Traverse Checking"" Causes File Copy to Drop Streams"
+- Q172930 Removal of "Bypass Traverse Checking" Causes File Copy to Drop Streams
 - Q172982 16-bit ShellExecute Fails if Application Exists in Long Path
 - Q173059 Security Events Are Not Logged During Audit
 - Q173277 No Memory.dmp File Created with RAM Above 1.7 GB
@@ -530,23 +536,6 @@
 - Q174830 NMI Error Message on Blue Screen May Be Garbled
 - Q174840 Disabling Buttons in the Windows NT Security Dialog Box
 - Q174844 Spooler Service Causing Access Violation
-- Q174869 WINS Client Sends Refresh Requests to Secondary WINS Server
-- Q174871 Printer Shares Lost after Changing Server Name
-- Q174927 Error Message During Setup of Noncritical Changes
-- Q174929 No Response to ARP Causes Duplicate IP Addresses on Network
-- Q174932 STOP 0x0000000A with Halmps.dll When Restarting
-- Q175035 Diskless Workstations Cannot Find BOOTP Server with DHCP
-- Q175048 CACLS Quits on Access Denied Errors with /c
-- Q175093 User Manager Does Not Recognize February 2000 As a Leap Year
-- Q175225 Disabling Context Menus Does Not Disable Key Combinations
-- Q175266 Creating Many Partitions Causes Double Drive Letters
-- Q175321 SNA Client Sessions Hang until SNA Server is Restarted
-- Q175468 Effects of Machine Account Replication on a Domain
-- Q175637 Poor Print Quality with Epson Stylus Pro XL ESC/P 2
-- Q175641 LMCompatibilityLevel and Its Effects
-- Q175643 CR Interpreted As CR/LF When Text Job Is Converted to PCL or PS
-- Q175667 Error Message: Copy Profile Error
-- Q175687 Win32k.sys Causes STOP 0x0000001e and 0x0000000a on SMP
 - Q175738 Collate Feature May Not Work with PostScript Printing
 - Q175745 Memory Leak When Using Win32 GetClipboardFormat API
 - Q175877 CSNW Connection Leak When Running 16-bit Applications
@@ -582,7 +571,7 @@
 - Q177670 Routing and Remote Access Service Does Not Enforce Strong Encryption for Dial-Up Networking Clients
 - Q177676 Stop 0x00000024 May Occur When Bypass Traverse Checking Is Disabled
 - Q177677 TSR Applications Hang While Login.exe Is Running
-- Q177680 "With GSNW, Windows NT 4.0 Client Cannot See All Files on NetWare Server"
+- Q177680 With GSNW, Windows NT 4.0 Client Cannot See All Files on NetWare Server
 - Q177684 Application Using SetOwner May Hang Windows NT User Interface
 - Q181775 0545a1998.01.545.0MTS Trusted Impersonators Group Name Is Too Long
 - Q189468 Java Components Hang When Run in Transaction Server
@@ -591,11 +580,11 @@
 - Q197810 Upgrading DTC to Close Idle Connections
 - Q192687 Upgrading MTS 2.0 DTC to Reduce Memory Usage
 - Q192681 Upgrading MTS 2.0 DTC to Support IBM DB2 and Informix Databases
---------------
 
-# **Service Pack 5** 
+---
 
---------------
+## Service Pack 5
+
 - Q193361 MSGINA.DLL does not Reset WINLOGON Structure
 - Q194812 All Users See All Other Users' Auto-Created Printers
 - Q194829 NET USE for Dfs Shares Fail for Terminal Server Clients > 9
@@ -653,11 +642,10 @@
 - Q241961 Terminal Server RDP Client Window Hangs While You Are Logging On
 - Q242983 Error Message: Stop 0x0000001E in Win32k!GreRealizePalette()
 
---------------
+---
 
-# **Service Pack 6/6a** 
+## Service Pack 6 / 6a
 
---------------
 - Q173191 Inserting an Excel Worksheet Object May Fail Under Windows NT
 - Q184232 DCOMCNFG Saves Incorrect Display Name in Services
 - Q215367 Win32 API Function GetEffectiveRightsFromAcl() Returns Incorrect Access Mask Value
@@ -724,7 +712,9 @@
 - Q242386 Cluster Does Not Log Event on Resource Monitor Failure
 - Q242510 Calling the SetEntriesInAcl() Function Generates Error Message 87 ("ERROR_INVALID_PARAMETER")
 - Q242583 Resrcmon Leaks Handles When a Generic Program Resource Is Taken Online or Offline
-- QInternet Authentication Service (IAS)
+
+### Internet Authentication Service (IAS)
+
 - Q193490 Cannot Set Radius DSN on Alpha Computer
 - Q194956 Forward Slash (/) Incorrectly Rejected by IAS Profile Tab
 - Q194957 Internet Authentication Service (IAS) Vendor-Specific Attributes Do Not Work
@@ -732,7 +722,9 @@
 - Q197506 IAS Incorrectly Validates User Accounts
 - Q221196 Radius Cannot Re-Establish a Connection to ODBC Data Source
 - Q241400 IAS Hangs When Configured as Radius Client for Windows 2000
-- QInternet Information Services (IIS)
+
+### Internet Information Services (IIS)
+
 - Q188352 ASP Caching May Cause "Server Too Busy" Errors and Blank Pages
 - Q193612 Log Files Rolled Over According to GMT, Not Local Time Zone
 - Q217763 File Access Vulnerability in Personal Web Server
@@ -754,7 +746,8 @@
 - Q241112 ISAPI Filter Cannot be Removed Using HTMLA
 - Q242001 Error 53 Error Message When You Try to Connect to a Windows 2000 Domain-Based DFS Share
 
-Microsoft Message Queue Server (MSMQ)
+### Microsoft Message Queue Server (MSMQ)
+
 - Q241525 Duplicate Transactional Messages Sent by MSMQ
 - Q241744 FIX: Journal Property for Private Queues Cannot be Updated from MSMQ ActiveX Components
 - Q241749 FIX: MSMQ ActiveX Component Receive Fails When Receiving a Message
@@ -763,13 +756,17 @@ Microsoft Message Queue Server (MSMQ)
 - Q241765 FIX: MSMQ ActiveX Receive Fails Due To Bad SenderID Length
 - Q241771 FIX: IsWorldReadable and MSMQ Window Handle Leaks
 - Q241772 FIX: MSMQ LookupQueue returns MQ_ERROR_ILLEGAL_PROPERTY
-Microsoft Transaction Server (MTS)
+
+### Microsoft Transaction Server (MTS)
+
 - Q232330 FIX: MTS Explorer Crashes When Configured the Machine Uses Remote DTC
 - Q232343 FIX: XA Transaction Monitors May Show Inconsistent Outcome
 - Q232348 FIX: DTC's XA RM Incorrectly Returns No More Transaction to Recover
 - Q232351 FIX: Repeated Load and Unload of Mtxdm.dll Causes 1MB Virtual Memory Leak
 - Q232533 FIX: DTC Log Notification Problem Leaves Transactions Incomplete
-Other
+
+### Other
+
 - Q226369 Windows NT Does Not Detect Media Change on ATAPI PD CD-ROM Drive
 - Q228734 Windows NT Does Not Boot with Highly Fragmented MFT
 - Q229722 German Compound Word Not Found if Part of the Word Is in the Noise Word List
@@ -784,7 +781,9 @@ Other
 - Q240087 Restoring NTBackup Sets Generated by Faulty SP4 Tandqic.sys
 - Q241042 Access to ProfileList Key Restricted with Service Pack 6
 - Q242521 Error Message: SetPrivilege on Account Failed
-Printing
+
+### Printing
+
 - Q102721 Err Msg: Windows NT Could Not Start Because the Following File Is Missing or Corrupt: \%Winnt%\System32\Config\SystemHardware Profile/Last Known Good Menu
 - Q223791 Spooler Service LPR Monitor Leaks Memory with Each Event 2004 Error
 - Q223863 Spooler Service May Leak Memory Attempting to Close Print Processor
@@ -799,7 +798,8 @@ Printing
 - Q242035 Printer Pooling Improvements in Windows NT 4.0 Service Pack 6
 - Q242587 Narrow Font Printing from Access with Japanese Windows NT 4.0 Service Pack 4 or 5
 
-Networking
+### Networking
+
 - Q216793 DHCP Server Stops Leasing Addresses if a Sharing Violation Occurs
 - Q221497 RRAS: RIP Routing Stops When System Time Is Changed
 - Q221515 Delay When Saving File to a Server with High Number of Shares
@@ -898,7 +898,8 @@ Networking
 - Q242523 Cannot Delete Macintosh Volume Using MACFILE REMOVE VOLUME Command
 - Q242594 Multiple-Processor Server Hangs When Receiving a Connection Request from a RAS Client
 
-Security
+### Security
+
 - Q179148 Settings May Not Be Applied with URL with Short Filename
 - Q218934 Multiple Bugs in Security Configuration Manager MMC Snap-In
 - Q222160 Security Configuration Editor Has Several UI-Related Problems
@@ -907,7 +908,7 @@ Security
 - Q230449 Service Control Handler May Not Receive SERVICE_CONTROL_SHUTDOWN Notification
 - Q231457 Malformed Request Causes LSA Service to Stop Responding
 - Q232710 Privileges Are not Assigned if Two Groups or Users Start with the Same Substring
-- Q- Q233214 STOP 0xC0000244 Error Message Occurs Even If CrashOnAuditFail Setting Is Disabled
+- Q233214 STOP 0xC0000244 Error Message Occurs Even If CrashOnAuditFail Setting Is Disabled
 - Q233323 Exceeding MaxRequestThreads May Cause Windows NT to Hang
 - Q235295 Profile Quotas Do Not Respect Excluded Folders
 - Q235899 ScardGetStatusChange() API May Cause Deadlock in Smart Card Resource Manager
@@ -930,7 +931,8 @@ Security
 - Q242033 Access Violation in Services.exe Using the Smbtorture Tool in Samba 2.0.5
 - Q242366 Denial of Service When Using Xenroll to Create Files or Write to the Registry
 
-Shell
+### Shell
+
 - Q221562 OFF97: IPF in Winhlp32 When Starting Help If It's Already Running
 - Q228543 Policy Editor Does Not Read SNMP Communities Correctly
 - Q229614 No Error Message If Dragging from Microsoft Exchange to Windows NT Explorer Does Not Work
@@ -941,11 +943,11 @@ Shell
 - Q240414 Desktop Link to Local Folder Does Not Work After Installing SP5 If NoDrives Policy Is Enabled
 - Q241210 Drive List Shows Only Program Drive in 16-Bit and 32-Bit Programs
 
-Service Pack Setup
+### Service Pack Setup
+
 - Q229804 Service Pack Appears to Extract Font Files Only
 - Q236954 Error Message Repairing Windows NT After Installing Service Pack
 - Q238671 SP4 and SP5 Enable Automatic Adjustment for Daylight Saving Time
 - Q238953 MSMQ IC Does Not Start if Protected Storage Disabled or Delayed
 - Q241331 Default (GMT) Time Zone Changes During Service Pack Upgrades
 - Q242278 Windows NT 4.0 Service Pack 6 Setup Replaces 3Com EtherLink 905B Driver with New Version
---------------
