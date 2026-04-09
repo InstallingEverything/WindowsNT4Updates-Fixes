@@ -1,13 +1,25 @@
-# **Drivers**
+# Drivers
 
-Finally after much testing and tying different options we finally have driver tested with multiple versions of VMWare Workstation.
+A tested collection of Windows NT 4.0 drivers for virtual machines, with a focus on VMware Workstation compatibility.
 
-**Please Note**
+## Overview
 
-The audio and USB driver do work on other options like PCEM and VirtualBox but the video driver is for VMWare Workstation **ONLY**.
+These drivers are selected to improve USB, audio, and video support in NT 4.0 VMs.
 
-**Contents**
+## Compatibility
+
+- VMware Workstation: fully tested and supported, including the VMware SVGA II video driver
+- PCem and VirtualBox: USB and audio drivers are known to work
+- VMware video driver: VMware Workstation only
+
+## Included Drivers
 
 1. Inside Out Networks USB Peripheral Drivers
 2. Sound Blaster AudioPCI (Drivers only) Web Update
-3. VMware SVGA II from VMware tools 3.5.0-110268 
+3. VMware SVGA II from VMware Tools `3.5.0-110268`
+
+## Notes
+
+- Install the VMware SVGA II driver only on VMware Workstation hosts.
+- USB and audio drivers may work in other virtualization platforms, but were primarily validated in VMware.
+- Always test driver installs in a snapshot or disposable VM first. 
